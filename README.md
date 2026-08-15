@@ -18,6 +18,6 @@ Here are the tools and frameworks I use to bring data to life:
 * [**Cyclistic Bike-Share Case Study**](https://www.kaggle.com/code/nguyendinhthanh/cyclistic-bike-share-case-study-converting-casual): Analyzed 6 million rows of historical trip data using SQL and Python to identify user behaviors and design marketing strategies to convert casual riders into annual members.
 
 ## 📬 Contact & Resume
-* **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com/in/nguyen-d-thanh)
-* **Email:** [Send me an email](nguyendinhthanh.me@gmail.com)
+* 🔗 **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com/in/nguyen-d-thanh)
+* 📧 **Email:** [Send me an email](nguyendinhthanh.me@gmail.com)
 * 📄 **Resume:** [View my Full Resume](link-den-file-pdf-cv-cua-ban)
