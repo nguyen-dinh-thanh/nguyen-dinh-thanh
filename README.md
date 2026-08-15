@@ -15,7 +15,7 @@ Here are the tools and frameworks I use to bring data to life:
   * ChatGPT Foundations for Teachers
 
 ## 🚀 Featured Projects
-* [**Cyclistic Bike-Share Case Study**](https://www.kaggle.com/code/nguyendinhthanh/cyclistic-bike-share-case-study-converting-casual): Analyzed 6 million rows of historical trip data using SQL and Python to identify user behaviors and design marketing strategies to convert casual riders into annual members.
+* [**Cyclistic Bike-Share Case Study**](https://github.com/nguyen-dinh-thanh/cyclistic-bike-share-analysis): Analyzed 6 million rows of historical trip data using SQL and Python to identify user behaviors and design marketing strategies to convert casual riders into annual members.
 
 ## 📬 Contact & Resume
 * 🔗 **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com/in/nguyen-d-thanh)
