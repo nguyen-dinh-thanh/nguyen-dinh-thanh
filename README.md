@@ -20,4 +20,4 @@ Here are the tools and frameworks I use to bring data to life:
 ## 📬 Contact & Resume
 * 🔗 **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com/in/nguyen-d-thanh)
 * 📧 **Email:** [Send me an email](nguyendinhthanh.me@gmail.com)
-* 📄 **Resume:** [View my Full Resume](link-den-file-pdf-cv-cua-ban)
+* 📄 **Resume:** [View my Full Resume](https://drive.google.com/file/d/105uhSMLY8mjiu0Sg9Xt1Es5Rnw8hq74d/view?usp=sharing)
