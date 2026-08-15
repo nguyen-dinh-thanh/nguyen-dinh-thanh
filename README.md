@@ -1,4 +1,4 @@
-# Hi there, I'm Nguyễn Đình Thanh 👋
+# Hi there, I'm Thanh D. Nguyen (Nguyễn Đình Thanh) 👋
 
 Welcome to my Data Analytics Portfolio! 
 
